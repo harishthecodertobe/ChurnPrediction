@@ -1,0 +1,6 @@
+streamlit
+onnxruntime
+numpy
+pandas
+scikit-learn
+pickle5
